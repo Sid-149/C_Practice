@@ -1,2 +1,2 @@
-# C_Practice
-This repository contains the codes to my C Practice.
+# Codes in C
+This repository contains some basic codes to C.
